@@ -1,0 +1,27 @@
+@font-face {
+    font-family: innogyWebBold;
+    src: url(../fonts/innogyWEB-Bold/innogyWEB-Bold.woff);
+}
+
+@font-face {
+    font-family: innogyWebLight;
+    src: url(../fonts/innogyWEB-Light/innogyWEB-Light.woff);
+}
+
+@font-face {
+    font-family: innogyWebRegular;
+    src: url(../fonts/innogyWEB-Regular/innogyWEB-Regular.woff);
+}
+
+@font-face {
+    font-family: innogyWebMedium;
+    src: url(../fonts/innogyWEB-Medium/innogyWEB-Medium.woff);
+}
+
+h1 {
+    font-family: innogyWebLight;
+}
+
+p, small {
+    font-family: innogyWebRegular;
+}
